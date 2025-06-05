@@ -1,6 +1,4 @@
-# literalura-main-challenge
-
-** Características Principales **
+Características Principales
 📚 Permite buscar y almacenar datos sobre autores del Proyecto Gutenberg (nombre, fecha de nacimiento, fecha de fallecimiento y obras registradas).
 
 🔍 Filtra autores que estuvieron vivos en un año específico.
@@ -11,7 +9,7 @@
 
 💻 Interfaz de consola que facilita la interacción con el usuario de manera sencilla y eficiente.
 
-**Instrucciones de Uso**
+Instrucciones de Uso
 Al iniciar la aplicación, el usuario podrá interactuar con el menú a través de la consola y seleccionar una de las siguientes opciones:
 
 📖 Buscar y registrar el libro más popular de un autor o con un título específico.
@@ -26,7 +24,7 @@ Al iniciar la aplicación, el usuario podrá interactuar con el menú a través 
 
 🚪 Salir de la aplicación.
 
-**Tecnologías Utilizadas**
+Tecnologías Utilizadas
 ☕ Java
 
 🐘 PostgreSQL
